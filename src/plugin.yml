@@ -9,5 +9,3 @@ commands:
     permission: AntiXray.use
   findhiddendiamonds:
     permission: AntiXray.find
-  hidedebug:
-    permission: AntiXray.hidedebug
