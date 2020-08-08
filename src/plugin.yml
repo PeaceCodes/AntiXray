@@ -1,0 +1,13 @@
+name: AntiDiamondXray
+version: 1.0
+main: me.peacetuba.antixray.AntiXray
+author: PeaceTuba / PeaceAndWar
+description: Hides all diamonds
+
+commands:
+  toggleantixray:
+    permission: AntiXray.use
+  findhiddendiamonds:
+    permission: AntiXray.find
+  hidedebug:
+    permission: AntiXray.hidedebug
